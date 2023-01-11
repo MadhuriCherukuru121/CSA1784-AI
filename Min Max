@@ -1,5 +1,4 @@
 import math
-
 def minimax (curDepth, nodeIndex,
 maxTurn, scores,
 targetDepth):
